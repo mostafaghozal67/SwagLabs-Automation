@@ -1,0 +1,1 @@
+{"uuid":"d9c85cfb-2a2a-4710-b0e4-82d6ae4215a8","name":"Tests.TC06_FinishOrderTest.quit","children":["3fa23d61-8735-444f-9f41-aa6869abcefd"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714330796311,"stop":1714330797598}],"start":1714330796311,"stop":1714330797598}

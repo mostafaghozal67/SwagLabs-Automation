@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Finish Order Suite">
+    <listeners>
+        <listener class-name="listeners.IInvokedListenerClass"></listener>
+    </listeners>
+    <test name="Login Test">
+        <classes>
+            <class name="Tests.TC06_FinishOrderTest"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,1 @@
+{"uuid":"3aa109bb-c6d4-42e2-ae84-1c06991a4bd3","name":"Tests.TC02_HomeTest.quit","children":["29998987-5e77-45be-b77a-1826d0874ed0"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714330793462,"stop":1714330795134}],"start":1714330793462,"stop":1714330795134}
